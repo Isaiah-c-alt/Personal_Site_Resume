@@ -1,0 +1,10 @@
+li a
+{
+  color: #f73859;
+  display: block;
+  text-decoration: none;
+}
+a:hover
+{
+  text-decoration: underline;
+}
